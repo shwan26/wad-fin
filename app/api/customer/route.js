@@ -1,4 +1,3 @@
-import mongoose from "mongoose";
 import Customer from "@/models/Customer";
 
 // Handler for GET request to fetch all customers, sorted by their member number in descending order
